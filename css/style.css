@@ -47,7 +47,7 @@ div{
         width: 45%;
     }
     img{
-        max-height: auto;
+        height: 30vh;
         width: 100%;
     }
     body{
@@ -60,7 +60,7 @@ div{
         width: 30%;
     }
     img{
-        max-height: auto;
+        height: auto;
         width: 100%;
     }
     body{
